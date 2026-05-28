@@ -74,6 +74,18 @@ Especializado en soluciones para constructoras, inmobiliarias y arquitectura.
 - Landing moderna para arquitectura y renderistas
 - Experiencias web optimizadas con Astro
 
+
+## Objetivo Profesional
+
+Construir experiencias web premium para constructoras, inmobiliarias y arquitectura combinando:
+- frontend moderno
+- performance web
+- SEO
+- experiencia de usuario
+- captación de leads
+- conversión digital
+
+  
 ## Contacto
 
 - LinkedIn: próximamente
