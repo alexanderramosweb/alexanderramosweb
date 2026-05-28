@@ -1,6 +1,10 @@
 <h1 align="center">Alexander Ramos</h1>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexanderramosweb&color=111111&style=for-the-badge" />
+</p>
+
+<p align="center">
   Landing Pages Inmobiliarias • Constructoras • Arquitectura
 </p>
 
@@ -62,6 +66,13 @@ Especializado en soluciones para constructoras, inmobiliarias y arquitectura.
 - Creando sistemas modernos de captación de leads
 
 ---
+
+## Próximos Proyectos
+
+- Landing page premium para constructoras
+- Sistema de captación de leads inmobiliarios
+- Landing moderna para arquitectura y renderistas
+- Experiencias web optimizadas con Astro
 
 ## Contacto
 
