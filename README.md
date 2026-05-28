@@ -5,12 +5,18 @@
 </p>
 
 <p align="center">
+  Modern Frontend • Performance • SEO • Lead Generation
+</p>
+
+
+<p align="center">
 Frontend Developer especializado en experiencias web rápidas, modernas y optimizadas para captación de leads.
 </p>
 
+
 ---
 
-# Especialización
+## Especialización
 
 - Landing Pages Inmobiliarias
 - Constructoras y Bienes Raíces
@@ -24,10 +30,15 @@ Frontend Developer especializado en experiencias web rápidas, modernas y optimi
 
 ## Tecnologías
 
-<p>
-  Astro • JavaScript • HTML • CSS • Tailwind CSS • Git • GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
 </p>
-
 ---
 
 ## Enfoque
