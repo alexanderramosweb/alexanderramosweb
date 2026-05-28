@@ -10,12 +10,6 @@ Frontend Developer especializado en experiencias web rápidas, modernas y optimi
 
 ---
 
-Frontend Developer especializado en landing pages modernas para constructoras, inmobiliarias, arquitectura y bienes raíces.
-
-Creo experiencias web rápidas, optimizadas para conversión y captación de leads utilizando Astro y tecnologías frontend modernas.
-
----
-
 # Especialización
 
 - Landing Pages Inmobiliarias
