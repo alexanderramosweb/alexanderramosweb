@@ -96,7 +96,17 @@ Construir experiencias web premium para constructoras, inmobiliarias y arquitect
 - captación de leads
 - conversión digital
 
-- 
+## Filosofía de Trabajo
+
+Creo experiencias web enfocadas en:
+- claridad visual
+- rendimiento
+- experiencia de usuario
+- diseño moderno
+- captación digital
+- conversión
+
+Mi enfoque combina frontend moderno con objetivos reales de negocio.
 
   
 ## Contacto
