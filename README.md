@@ -39,7 +39,7 @@ Frontend Developer especializado en experiencias web rápidas, modernas y optimi
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
 </p>
----
+
 
 ## Enfoque
 
