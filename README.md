@@ -44,7 +44,18 @@ Frontend Developer especializado en experiencias web rápidas, modernas y optimi
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
 </p>
 
+## Áreas de Interés
 
+- Frontend Development
+- Landing Pages
+- Performance Web
+- SEO Técnico
+- UX/UI
+- Arquitectura Web Moderna
+- Captación Digital
+- Experiencias Mobile First
+
+  
 ## Enfoque
 
 Desarrollo experiencias web enfocadas en:
@@ -84,6 +95,8 @@ Construir experiencias web premium para constructoras, inmobiliarias y arquitect
 - experiencia de usuario
 - captación de leads
 - conversión digital
+
+- 
 
   
 ## Contacto
