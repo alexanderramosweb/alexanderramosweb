@@ -1,16 +1,56 @@
-## Hi there 👋
+# Alexander Ramos | Landing Pages Inmobiliarias
 
-<!--
-**alexanderramosweb/alexanderramosweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer especializado en landing pages modernas para constructoras, inmobiliarias, arquitectura y bienes raíces.
 
-Here are some ideas to get you started:
+Creo experiencias web rápidas, optimizadas para conversión y captación de leads utilizando Astro y tecnologías frontend modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Especialización
+
+- Landing Pages Inmobiliarias
+- Constructoras y Bienes Raíces
+- Captación de Leads
+- SEO y Performance Web
+- UX/UI Moderna
+- Experiencia Mobile First
+- Astro Framework
+
+---
+
+## Tecnologías
+
+- Astro
+- JavaScript
+- HTML
+- CSS
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+## Enfoque
+
+Mi enfoque está en crear experiencias web rápidas, modernas y orientadas a negocio para empresas del sector inmobiliario y construcción.
+
+Busco combinar:
+- rendimiento web
+- diseño premium
+- experiencia de usuario
+- captación de leads
+- conversión digital
+
+---
+
+## Actualmente
+
+- Construyendo proyectos especializados para constructoras e inmobiliarias
+- Mejorando performance y SEO con Astro
+- Creando experiencias web enfocadas en conversión
+
+---
+
+## Contacto
+
+- LinkedIn: próximamente
+- Portfolio: próximamente
