@@ -1,4 +1,14 @@
-# Alexander Ramos | Landing Pages Inmobiliarias
+<h1 align="center">Alexander Ramos</h1>
+
+<p align="center">
+  Landing Pages Inmobiliarias • Constructoras • Arquitectura
+</p>
+
+<p align="center">
+Frontend Developer especializado en experiencias web rápidas, modernas y optimizadas para captación de leads.
+</p>
+
+---
 
 Frontend Developer especializado en landing pages modernas para constructoras, inmobiliarias, arquitectura y bienes raíces.
 
@@ -6,47 +16,45 @@ Creo experiencias web rápidas, optimizadas para conversión y captación de lea
 
 ---
 
-## Especialización
+# Especialización
 
 - Landing Pages Inmobiliarias
 - Constructoras y Bienes Raíces
+- Arquitectura y Renderistas
 - Captación de Leads
 - SEO y Performance Web
 - UX/UI Moderna
 - Experiencia Mobile First
 - Astro Framework
-
 ---
 
 ## Tecnologías
 
-- Astro
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-- Git & GitHub
+<p>
+  Astro • JavaScript • HTML • CSS • Tailwind CSS • Git • GitHub
+</p>
 
 ---
 
 ## Enfoque
 
-Mi enfoque está en crear experiencias web rápidas, modernas y orientadas a negocio para empresas del sector inmobiliario y construcción.
-
-Busco combinar:
-- rendimiento web
-- diseño premium
-- experiencia de usuario
+Desarrollo experiencias web enfocadas en:
 - captación de leads
+- rendimiento web
 - conversión digital
+- diseño premium
+- experiencia móvil
+- presencia digital moderna
 
+Especializado en soluciones para constructoras, inmobiliarias y arquitectura.
 ---
 
 ## Actualmente
 
 - Construyendo proyectos especializados para constructoras e inmobiliarias
-- Mejorando performance y SEO con Astro
-- Creando experiencias web enfocadas en conversión
+- Mejorando performance y SEO utilizando Astro
+- Diseñando experiencias web enfocadas en conversión
+- Creando sistemas modernos de captación de leads
 
 ---
 
@@ -54,3 +62,4 @@ Busco combinar:
 
 - LinkedIn: próximamente
 - Portfolio: próximamente
+- Email: próximamente
