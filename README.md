@@ -14,7 +14,7 @@
 
 <br>
 
-## ⎈ Especialización
+## >> Especialización
 
 | Sector                          | Enfoque Técnico                                 |
 | :------------------------------ | :---------------------------------------------- |
