@@ -50,5 +50,38 @@ Para garantizar velocidad, escalabilidad y una experiencia de usuario óptima, u
   <img src="https://img.shields.io/badge/Lead%20Generation-111111?style=for-the-badge&logo=target&logoColor=white" />
 </p>
 
+## Proyectos Destacados
+
+**(Espacio estratégico donde debes listar 2 o 3 proyectos reales con enlaces)*
+
+> **Ejemplo de estructura profesional:**
+> - **[Nombre del Proyecto]** — Landing page para [nombre de constructora].  
+>   Resultado: +35% en captación de leads. Tecnologías: Astro, Tailwind, formulario con validación.
+> - **[Nombre del Proyecto]** — Sitio para estudio de arquitectura.  
+>   Optimización de imágenes y Core Web Vitals en 0.1s LCP.
+
+> ⚠️ **Recomendación del equipo:** Si aún no tienes proyectos públicos, prioriza subir 2 landing pages reales o demos técnicas antes que estadísticas vacías.
+
 ---
 
+## Enfoque Profesional
+
+Desarrollo soluciones frontend donde cada decisión técnica sirve a un objetivo de negocio:
+
+- **Rendimiento** como base para SEO y experiencia de usuario.
+- **Diseño Mobile First** porque más del 70% del tráfico inmobiliario viene de móviles.
+- **Captación de leads** con formularios optimizados y trackeo limpio.
+
+---
+
+## Contacto Profesional
+
+| Canal | Estado |
+| :--- | :--- |
+| Portfolio | [En construcción →]() |
+| LinkedIn | [En construcción →]() |
+| Email | `alexander@tudominio.com` *(Edita con tu email real)* |
+
+---
+
+*Disponible para colaboraciones enfocadas en resultados, no solo en código.*
