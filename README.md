@@ -4,33 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=alexanderramosweb&color=111111&style=for-the-badge" />
 </p>
 
-<p align="center">
-  Landing Pages Inmobiliarias • Constructoras • Arquitectura
-</p>
+### Frontend Developer | Specialized in Real Estate, Architecture & Lead Generation Systems
 
-<p align="center">
-  Modern Frontend • Performance • SEO • Lead Generation
-</p>
-
-
-<p align="center">
-Frontend Developer especializado en experiencias web rápidas, modernas y optimizadas para captación de leads.
-</p>
-
+Construyo experiencias web orientadas a la conversión para el sector inmobiliario, constructoras y arquitectura.
 
 ---
-
 ## Especialización
 
-- Landing Pages Inmobiliarias
-- Constructoras y Bienes Raíces
-- Arquitectura y Renderistas
-- Captación de Leads
-- SEO y Performance Web
-- UX/UI Moderna
-- Experiencia Mobile First
-- Astro Framework
+| Sector | Enfoque Técnico |
+| :--- | :--- |
+| Inmobiliario & Constructoras | Landing Pages, Captación de Leads, SEO Técnico |
+| Arquitectura & Renderistas | Visualización de portafolio, Performance Visual |
+
 ---
+
 
 ## Tecnologías
 
@@ -44,73 +31,3 @@ Frontend Developer especializado en experiencias web rápidas, modernas y optimi
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github" />
 </p>
 
-## Áreas de Interés
-
-- Frontend Development
-- Landing Pages
-- Performance Web
-- SEO Técnico
-- UX/UI
-- Arquitectura Web Moderna
-- Captación Digital
-- Experiencias Mobile First
-
-  
-## Enfoque
-
-Desarrollo experiencias web enfocadas en:
-- captación de leads
-- rendimiento web
-- conversión digital
-- diseño premium
-- experiencia móvil
-- presencia digital moderna
-
-Especializado en soluciones para constructoras, inmobiliarias y arquitectura.
----
-
-## Actualmente
-
-- Construyendo proyectos especializados para constructoras e inmobiliarias
-- Mejorando performance y SEO utilizando Astro
-- Diseñando experiencias web enfocadas en conversión
-- Creando sistemas modernos de captación de leads
-
----
-
-## Próximos Proyectos
-
-- Landing page premium para constructoras
-- Sistema de captación de leads inmobiliarios
-- Landing moderna para arquitectura y renderistas
-- Experiencias web optimizadas con Astro
-
-
-## Objetivo Profesional
-
-Construir experiencias web premium para constructoras, inmobiliarias y arquitectura combinando:
-- frontend moderno
-- performance web
-- SEO
-- experiencia de usuario
-- captación de leads
-- conversión digital
-
-## Filosofía de Trabajo
-
-Creo experiencias web enfocadas en:
-- claridad visual
-- rendimiento
-- experiencia de usuario
-- diseño moderno
-- captación digital
-- conversión
-
-Mi enfoque combina frontend moderno con objetivos reales de negocio.
-
-  
-## Contacto
-
-- LinkedIn: próximamente
-- Portfolio: próximamente
-- Email: próximamente
