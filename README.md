@@ -62,7 +62,7 @@
   [-] Tecnologías: Astro, Tailwind, formulario con validación.
 
 - **[Estudio ARQ Minimal]** — Sitio para estudio de arquitectura.  
-  [-] Optimización de imágenes y Core Web Vitals en 0.1s LCP.
+  [-] Core Web Vitals verdes en PageSpeed Insights (98+ en rendimiento).
 
 ---
 
