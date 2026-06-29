@@ -1,91 +1,190 @@
-<h1 align="center"style="font-size: 3rem;">Alexander Ramos</h1>
+# <h1 align="center">Alexander Ramos</h1>
 
-<!-- BANNER CENTRAL CON PREVIEW FILE -->
 <div align="center">
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=alexanderramosweb&color=111111&style=for-the-badge" />
-  
-  <h2 align="center" style="font-size: 2rem;"> Frontend Developer | Real Estate, Architecture & Lead Generation Systems</h2>
-  <p align="center" style="font-size: 1.2rem;">
-    Construyo experiencias web de alto rendimiento y orientadas a la conversión para el sector inmobiliario, constructoras y estudios de arquitectura.
-  </p>
-  <br><br>
-</div>
+
+### UI Designer & Frontend Developer
+
+Diseño interfaces en Figma y desarrollo experiencias web de alto rendimiento con Astro.
+
+Especializado en Landing Pages para empresas del sector construcción, inmobiliario y arquitectura.
 
 <br>
 
-## >> Especialización
+![](https://komarev.com/ghpvc/?username=alexanderramosweb\&color=111111\&style=for-the-badge)
 
-| Sector                          | Enfoque Técnico                                 |
-| :------------------------------ | :---------------------------------------------- |
-| 🏢 Inmobiliario & Constructoras | Landing Pages, Captación de Leads, SEO Técnico  |
-| 🏛️ Arquitectura & Renderistas   | Visualización de portafolio, Performance Visual |
+</div>
 
 ---
 
-## >> Stack Tecnológico Principal
+# Sobre mí
 
-### ◇ Core Frontend
+Soy diseñador UI y desarrollador Frontend especializado en crear Landing Pages rápidas, accesibles y orientadas a la conversión.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Astro-111111?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css&logoColor=white" />
-</p>
+Mi trabajo integra todo el proceso de desarrollo de un producto digital: desde el diseño de interfaces y la creación de Design Systems en Figma hasta la implementación con Astro, aplicando buenas prácticas de Performance, SEO y Accessibility.
 
-### ◇ Estilos & UI/UX
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111111?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mobile--First-111111?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
-</p>
-
-### ◇ Optimización & Herramientas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Vitals-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO%20Técnico-111111?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lead%20Generation-111111?style=for-the-badge&logo=target&logoColor=white" />
-</p>
+Disfruto construir interfaces reutilizables, código limpio y arquitecturas escalables donde cada decisión técnica responde a un objetivo de negocio.
 
 ---
 
-## >> Proyectos Destacados
+# Flujo de trabajo
 
-- **[NovaHogar]** — Landing page para desarrolladora inmobiliaria.  
-  [-] Resultado: +35% en captación de leads.  
-  [-] Tecnologías: Astro, Tailwind, formulario con validación.
-
-- **[Estudio ARQ Minimal]** — Sitio para estudio de arquitectura.  
-  [-] Core Web Vitals verdes en PageSpeed Insights (98+ en rendimiento).
+```text
+Research
+    │
+    ▼
+UX / UI Design (Figma)
+    │
+    ▼
+Design System
+    │
+    ▼
+Frontend Development (Astro)
+    │
+    ▼
+Performance & SEO
+    │
+    ▼
+Testing
+    │
+    ▼
+Deployment
+```
 
 ---
 
-## >> Enfoque Profesional
+# Tech Stack
 
-Desarrollo soluciones frontend donde cada decisión técnica sirve a un objetivo de negocio:
+## Design
 
-- [-] **Rendimiento** como base para SEO y experiencia de usuario.
-- [-] **Diseño Mobile First** porque más del 70% del tráfico inmobiliario viene de móviles.
-- [-] **Captación de leads** con formularios optimizados y trackeo limpio.
+* Figma
+* UI Design
+* Responsive Design
+* Design Systems
+* Interactive Prototyping
+
+## Frontend
+
+* Astro
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Tailwind CSS
+
+## Animation
+
+* GSAP
+
+## Performance
+
+* Core Web Vitals
+* Technical SEO
+* Accessibility
+* Responsive Development
+* Mobile First
+
+## Tools
+
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+# Especialización
+
+| Área                 | Enfoque                                                          |
+| -------------------- | ---------------------------------------------------------------- |
+| Frontend Development | Arquitecturas basadas en componentes con Astro                   |
+| UI Design            | Interfaces diseñadas en Figma                                    |
+| Landing Pages        | Experiencias orientadas a la conversión                          |
+| Performance          | Optimización de carga y Core Web Vitals                          |
+| Technical SEO        | HTML semántico, metadatos y estructura optimizada                |
+| Accessibility        | Implementaciones alineadas con buenas prácticas de accesibilidad |
 
 ---
 
-## >> Contacto Profesional
+# Filosofía de trabajo
 
-| Canal        | Estado                                                |
-| :----------- | :---------------------------------------------------- |
-| 🌐 Portfolio | [En construcción →]()                                 |
-| 🔗 LinkedIn  | [En construcción →]()                                 |
-| ✉️ Email     | `alexander@tudominio.com` _(Edita con tu email real)_ |
+Creo que una buena experiencia digital comienza mucho antes de escribir una línea de código.
+
+Cada proyecto inicia con una comprensión del problema, continúa con el diseño de una interfaz clara y consistente, y finaliza con un desarrollo optimizado para ofrecer rendimiento, accesibilidad y una excelente experiencia de usuario.
+
+Mi objetivo no es solo desarrollar sitios web, sino construir productos digitales que sean fáciles de mantener, rápidos y capaces de generar resultados.
+
+---
+
+# Actualmente
+
+Actualmente estoy enfocado en:
+
+* Profundizar en Astro y arquitecturas Frontend escalables.
+* Crear Design Systems reutilizables.
+* Optimizar Performance y Core Web Vitals.
+* Desarrollar interfaces con énfasis en Accessibility.
+* Implementar animaciones avanzadas utilizando GSAP.
+
+---
+
+# Proyectos
+
+Los proyectos publicados en este perfil representan mi forma de trabajar, integrando diseño, desarrollo Frontend y optimización.
+
+Cada repositorio busca reflejar buenas prácticas de arquitectura, organización del código, rendimiento y experiencia de usuario.
+
+Los casos de estudio completos del proceso de diseño se encuentran disponibles en Behance.
+
+---
+
+# Diseño + Desarrollo
+
+Mi proceso integra diseño y desarrollo como una única disciplina.
+
+```text
+Research
+        │
+        ▼
+Wireframes
+        │
+        ▼
+UI Design
+        │
+        ▼
+Design System
+        │
+        ▼
+Frontend Development
+        │
+        ▼
+Performance Optimization
+        │
+        ▼
+Deployment
+```
+
+---
+
+# Contacto
+
+**Portfolio**
+
+Próximamente.
+
+**Behance**
+
+Próximamente.
+
+**LinkedIn**
+
+Próximamente.
+
+**Email**
+
+[alexander@tudominio.com](mailto:alexander@tudominio.com)
 
 ---
 
 <div align="center">
-  *Disponible para colaboraciones enfocadas en resultados, no solo en código.*
+
+*"El diseño define la experiencia. El desarrollo la convierte en un producto."*
+
 </div>
