@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### UI Designer & Frontend Developer
+### Frontend Developer & UI Designer  
 
 Diseño interfaces en Figma y desarrollo experiencias web de alto rendimiento con Astro.
 
@@ -113,15 +113,15 @@ Mi objetivo no es solo desarrollar sitios web, sino construir productos digitale
 
 ---
 
-# Actualmente
+# Enfoque
 
-Actualmente estoy enfocado en:
-
-* Profundizar en Astro y arquitecturas Frontend escalables.
-* Crear Design Systems reutilizables.
-* Optimizar Performance y Core Web Vitals.
-* Desarrollar interfaces con énfasis en Accessibility.
-* Implementar animaciones avanzadas utilizando GSAP.
+- UI Design + Frontend Development.
+- Arquitectura basada en componentes.
+- Mobile First.
+- Performance como prioridad.
+- SEO desde el desarrollo.
+- Código limpio y mantenible.
+- Design Systems reutilizables.
 
 ---
 
