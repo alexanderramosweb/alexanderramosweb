@@ -111,7 +111,52 @@ Deployment
 ---
 
 
-### Proyectos destacados
+## Proyectos Destacados
+
+### Aura Marina
+
+Landing Page diseñada y desarrollada para el sector inmobiliario, enfocada en rendimiento, experiencia de usuario y arquitectura basada en componentes.
+
+**Stack**
+Astro · TypeScript ·  CSS · GSAP
+
+**Características**
+- Arquitectura basada en componentes.
+- Diseño responsive.
+- Animaciones con GSAP.
+- Optimización de Core Web Vitals.
+- SEO técnico.
+---
+
+## Demo
+
+<p align="center">
+<video src="https://github.com/user-attachments/assets/41162139-1add-4fb4-b624-4a65f023ba2f" autoplay loop muted width="50%"></video>
+</p>
+
+---
+| Recurso                                                                                                                     | Enlace                                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.shields.io/badge/Sitio_en_Vivo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" height="25"> | <a href="https://aura-marina.vercel.app/" target="_blank" rel="noopener noreferrer">https://aura-marina.vercel.app/</a> |
+| <img src="https://img.shields.io/badge/Repositorio-000000?style=for-the-badge&logo=github&logoColor=white" height="25">     | <a href="https://github.com/alexanderramosweb/aura-marina" target="_blank" rel="noopener noreferrer">Aura Marina</a>    |
+| <img src="https://img.shields.io/badge/Producción-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7" height="25">    | Desplegado en Vercel (auto-deploy en cada push)  
+### Studio Arch Premium
+
+Landing Page desarrollada para un estudio de arquitectura, priorizando diseño visual, rendimiento y mantenibilidad.
+
+**Stack**
+Astro · TypeScript · Tailwind CSS · GSAP
+
+**Características**
+- UI moderna y minimalista.
+- Componentes reutilizables.
+- Performance optimizada.
+- SEO técnico.
+- Accesibilidad.
+
+🌐 Demo
+
+💻 Repositorio
 
 ### Aura Marina
 Landing Page diseñada y desarrollada con Astro para el sector inmobiliario.
