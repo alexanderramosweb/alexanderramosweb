@@ -2,12 +2,11 @@
 
 <div align="center">
 
-### Frontend Developer & UI Designer  
+### UI Designer & Frontend Developer especializado en experiencias digitales para el sector inmobiliario y la construcción.
 
-Diseño interfaces en Figma y desarrollo experiencias web de alto rendimiento con Astro.
+Diseño y desarrollo Landing Pages de alto rendimiento para empresas del sector construcción, inmobiliario y arquitectura.
 
-Especializado en Landing Pages para empresas del sector construcción, inmobiliario y arquitectura.
-
+Especializado en Astro, Performance, SEO, Accesibilidad y Design Systems.
 <br>
 
 ![](https://komarev.com/ghpvc/?username=alexanderramosweb\&color=111111\&style=for-the-badge)
@@ -18,21 +17,19 @@ Especializado en Landing Pages para empresas del sector construcción, inmobilia
 
 # Sobre mí
 
-Soy diseñador UI y desarrollador Frontend especializado en crear Landing Pages rápidas, accesibles y orientadas a la conversión.
-
-Mi trabajo integra todo el proceso de desarrollo de un producto digital: desde el diseño de interfaces y la creación de Design Systems en Figma hasta la implementación con Astro, aplicando buenas prácticas de Performance, SEO y Accessibility.
-
-Disfruto construir interfaces reutilizables, código limpio y arquitecturas escalables donde cada decisión técnica responde a un objetivo de negocio.
+Diseño y desarrollo Landing Pages de alto rendimiento que ayudan a constructoras, inmobiliarias y estudios de arquitectura a presentar sus proyectos con mayor velocidad, mejor posicionamiento en buscadores y una experiencia de usuario orientada a la conversión.
 
 ---
 
 # Flujo de trabajo
 
+## Mi proceso de trabajo
+
 ```text
 Research
     │
     ▼
-UX / UI Design (Figma)
+UX/UI Design (Figma)
     │
     ▼
 Design System
@@ -41,7 +38,7 @@ Design System
 Frontend Development (Astro)
     │
     ▼
-Performance & SEO
+Performance · SEO · Accessibility
     │
     ▼
 Testing
@@ -90,78 +87,59 @@ Deployment
 * Visual Studio Code
 
 ---
-# Especialización
+##  Áreas de especialización
 
-| Área                 | Enfoque                                                          |
-| -------------------- | ---------------------------------------------------------------- |
-| Frontend Development | Arquitecturas basadas en componentes con Astro                   |
-| UI Design            | Interfaces diseñadas en Figma                                    |
-| Landing Pages        | Experiencias orientadas a la conversión                          |
-| Performance          | Optimización de carga y Core Web Vitals                          |
-| Technical SEO        | HTML semántico, metadatos y estructura optimizada                |
-| Accessibility        | Implementaciones alineadas con buenas prácticas de accesibilidad |
-
----
-
-# Filosofía de trabajo
-
-Creo que una buena experiencia digital comienza mucho antes de escribir una línea de código.
-
-Cada proyecto inicia con una comprensión del problema, continúa con el diseño de una interfaz clara y consistente, y finaliza con un desarrollo optimizado para ofrecer rendimiento, accesibilidad y una excelente experiencia de usuario.
-
-Mi objetivo no es solo desarrollar sitios web, sino construir productos digitales que sean fáciles de mantener, rápidos y capaces de generar resultados.
+| Área | Enfoque |
+|------|---------|
+| Frontend Development | Desarrollo de interfaces modernas con Astro y arquitectura basada en componentes. |
+| UI Design | Diseño de interfaces funcionales y consistentes en Figma. |
+| Design Systems | Creación de sistemas de diseño reutilizables y escalables. |
+| Performance | Optimización de Core Web Vitals y tiempos de carga. |
+| Technical SEO | Implementación de buenas prácticas de SEO técnico desde el desarrollo. |
+| Accessibility | Desarrollo de interfaces accesibles siguiendo estándares web. |ormance & SEO | Optimizo Core Web Vitals, accesibilidad y SEO técnico desde el desarrollo. |
 
 ---
 
-# Enfoque
+## Cómo trabajo
 
-- UI Design + Frontend Development.
+- Comprendo el problema antes de escribir código.
+- Diseño interfaces claras, consistentes y reutilizables.
+- Desarrollo con foco en mantenibilidad y escalabilidad.
+- Optimizo Performance, SEO y Accesibilidad desde el inicio del proyecto.
+- Aplico buenas prácticas de arquitectura y calidad de código.
+
+---
+
+
+### Proyectos destacados
+
+### Aura Marina
+Landing Page diseñada y desarrollada con Astro para el sector inmobiliario.
+
+**Stack:**  Figma ·  Astro · TypeScript · Tailwind CSS · GSAP
+
+**Enfoque:**
 - Arquitectura basada en componentes.
-- Mobile First.
-- Performance como prioridad.
-- SEO desde el desarrollo.
-- Código limpio y mantenible.
-- Design Systems reutilizables.
+- Optimización de Performance y Core Web Vitals.
+- SEO técnico.
+- Diseño responsive y accesible.
+
+🔗 Demo
+
+🔗 Repositorio
 
 ---
 
-# Proyectos
+### Nombre del Proyecto
 
-Los proyectos publicados en este perfil representan mi forma de trabajar, integrando diseño, desarrollo Frontend y optimización.
+Descripción...
 
-Cada repositorio busca reflejar buenas prácticas de arquitectura, organización del código, rendimiento y experiencia de usuario.
+🔗 Demo
 
-Los casos de estudio completos del proceso de diseño se encuentran disponibles en Behance.
-
----
-
-# Diseño + Desarrollo
-
-Mi proceso integra diseño y desarrollo como una única disciplina.
-
-```text
-Research
-        │
-        ▼
-Wireframes
-        │
-        ▼
-UI Design
-        │
-        ▼
-Design System
-        │
-        ▼
-Frontend Development
-        │
-        ▼
-Performance Optimization
-        │
-        ▼
-Deployment
-```
+🔗 Repositorio
 
 ---
+
 
 # Contacto
 
